@@ -35,3 +35,14 @@ python main.py
 - 老先生可以用拐杖攻擊敵人
 - 有1/3的機率拐杖會斷裂並射出，可以穿透所有敵人
 - 拐杖斷裂後需要等待一段時間才能恢復
+- 碰到敵人遊戲結束
+- 擊敗敵人可以獲得分數
+
+## 下載遊戲
+
+你可以直接下載已編譯好的遊戲版本：
+
+- [Windows 版本](https://github.com/dAAAb/pixel-cane-hero/releases/latest/download/pixel-cane-hero-windows.zip)
+- [macOS 版本](https://github.com/dAAAb/pixel-cane-hero/releases/latest/download/pixel-cane-hero-macos.zip)
+
+下載後解壓即可運行！

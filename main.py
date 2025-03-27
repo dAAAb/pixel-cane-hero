@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import pygame
 import sys
 import random
@@ -290,7 +291,7 @@ while running:
         screen.blit(projectile.image, (projectile.rect.x - scroll, projectile.rect.y))
     
     # 绘制分数
-    score_text = font.render(f'Score: {score}', True, WHITE)
+    score_text = font.render('Score: {}'.format(score), True, WHITE)
     screen.blit(score_text, (10, 10))
     
     # 游戏结束画面
