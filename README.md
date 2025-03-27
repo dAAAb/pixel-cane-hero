@@ -2,6 +2,8 @@
 
 一個極簡像素風格的橫向捲軸遊戲，主角是穿綠色西裝、頭髮有點禿、手拿拐杖的老先生。
 
+![image](https://github.com/user-attachments/assets/4eb45abf-fbed-4b1f-ac8c-58672f9b2a5e)
+
 ## 遊戲特點
 
 - 橫向捲軸像素風格遊戲，類似超級馬里奧兄弟
