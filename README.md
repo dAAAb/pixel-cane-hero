@@ -43,7 +43,7 @@ python main.py
 你可以直接下載已編譯好的遊戲版本：
 
 - [Windows 版本（Coming Soon）](#)
-- [macOS 版本](https://github.com/dAAAb/pixel-cane-hero/releases/latest/download/像素拐杖侠.zip)
+- [macOS 版本](https://ipfs.juchunko.com/ipfs/bafybeiew7p2cljs7uhddasm2ldaylbovuaz4redhe5bjzeuxxutiwoi2pa)
 
 下載後解壓即可運行！
 
