@@ -24,7 +24,10 @@ RED = (255, 0, 0)
 # 创建窗口
 screen = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
 pygame.display.set_caption('像素拐杖侠')
+
+# 初始化游戏变量
 clock = pygame.time.Clock()
+font = pygame.font.SysFont('Arial', 24)
 
 # 游戏变量
 gravity = 0.5
@@ -33,7 +36,6 @@ scroll = 0
 bg_scroll = 0
 game_over = False
 score = 0
-font = pygame.font.SysFont('Arial', 24)
 
 
 class Player(pygame.sprite.Sprite):
