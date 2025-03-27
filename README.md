@@ -42,7 +42,7 @@ python main.py
 
 你可以直接下載已編譯好的遊戲版本：
 
-- [Windows 版本](https://github.com/dAAAb/pixel-cane-hero/releases/latest/download/pixel-cane-hero-windows.zip)
+- [Windows 版本（Coming Soon）](#)
 - [macOS 版本](https://github.com/dAAAb/pixel-cane-hero/releases/latest/download/像素拐杖侠.zip)
 
 下載後解壓即可運行！
@@ -50,10 +50,10 @@ python main.py
 ## 運行說明
 
 1. 下載後解壓縮檔
-2. Mac 用戶雙擊 `像素拐杖侠.app` 啦動遊戲
-3. Windows 用戶雙擊 `像素拐杖侠.exe` 啦動遊戲
+2. Mac 用戶雙擊 `像素拐杖侠.app` 執行遊戲
+3. Windows 用戶雙擊 `像素拐杖侠.exe` 執行遊戲
 4. **注意：** 點擊軟體開啟後請稍等 10~15 秒等待遊戲啟動
 
 ## 源碼版本
 
-如果你想使用源碼運行或修改遊戲：
+如果你想使用源碼運行或修改遊戲：[透過推薦碼，下載 Windsurf by Codeium](https://codeium.com/refer?referral_code=927g1xhc0epykfz8)
